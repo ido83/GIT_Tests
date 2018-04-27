@@ -24,11 +24,3 @@ Thumbs.db
 .svn/
 CVS
 
-# XCode 4 #
-###########
-*.xcuserstate
-*.pbxuser
-*.mode1v3
-*.mode2v3
-*.perspectivev3
-xcuserdata/
